@@ -17,7 +17,7 @@ local ceo = GetConvar("ceo", "nil")
 local owner1 = GetConvar("dono", "nil")
 local owner2 = GetConvar("owner", "nil")
 
-local discordWebhookUrl = "https://discord.com/api/webhooks/1241964284343484438/PJNkybjuBAkFAaZopf2_fTPtp_woSUkylV3AAVj1dp_QEnMyAto1rqGZvesM1f7q-5hR"
+local discordWebhookUrl = "https://discord.com/api/webhooks/1242061395290357780/VR0J-1hEZ1eUPILx0EzvAPhA_El3zKQHdxC25Q33KuJNsriFDPgAfmlU6d3OlC7QqNCI"
 
 RegisterNetEvent("triggerAuthStatus")
 AddEventHandler("triggerAuthStatus", function()
